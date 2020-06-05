@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">MsgShareApp</string>
+    <string name="send_data_to_next_activity">Send Data To Next Activity</string>
+    <string name="share_to_other_apps">share to other apps</string>
+    <string name="recycler_view_demo">Recycler View Demo</string>
+    <string name="enter_your_message">Enter Your Message</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="TextView" translatable="false">TextView</string>
+    <string name="share" translatable="false" />
+    <string name="btn_was_clicked">Button was clicked !</string>
+</resources>
