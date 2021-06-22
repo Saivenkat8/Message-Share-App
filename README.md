@@ -1,2 +1,2 @@
 # Message-Share-App
-Built my first kotlin application during Google's #30dayskotlin.
+Built my first kotlin based application during Google's #30dayskotlin.
